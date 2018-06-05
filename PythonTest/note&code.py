@@ -89,3 +89,5 @@ def calc_sec(*num):
         sum += n
     return sum
 print (calc_sec(1,2,3))
+
+#test
